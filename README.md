@@ -8,7 +8,7 @@ Parking bill generator with image capturing feature deployed on AWS cloud.
 - Machine will compute the parking bill based on the time the vehicle is parked in parking lot.
 
 This is simple use case diagram describing how the parking bill generator works
-![Project](https://github.com/ChetanReddy1999/Parking-bill-generator/assets/68106127/c059caba-39d2-41a6-84fa-64a1d9aa9b0c)
+![newb](https://github.com/user-attachments/assets/fcbed778-d9a0-4997-abe3-7ac6dc3cc781)
 
 ---
 
